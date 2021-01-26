@@ -16,6 +16,8 @@ description: 'This guide will show you how to get started with DBots, and add a 
 
 ![](.gitbook/assets/add-bot.png)
 
+![](.gitbook/assets/add-a-bot.png)
+
 ### Step 3
 
 **Fill in the Form and Post** Fill in the form and post. Your bot has now been added to the approval queue! Please be patient, and if you have correctly followed the [Bot Guidelines](/docs/guidelines) your bot may be accepted.
