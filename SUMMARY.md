@@ -14,6 +14,10 @@
   * [Bot Stats](api/bots/bot-stats.md)
   * [Manage Bots](api/bots/manage-bots.md)
 
+## Bots
+
+* [Guidelines](bots/guidelines.md)
+
 ## Other
 
 * [Credits](other/credits.md)
